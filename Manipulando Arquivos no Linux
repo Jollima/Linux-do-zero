@@ -2,5 +2,15 @@
 
 	Navegando no Sistema de Arquivos no Ubuntu Server
 	
+# Comando - pwd: "Localisa o usuário onde ele está dentro dos diretórios".
 
+# Comando - cd /: Acessa o diretório raíz;
+
+# comando - ls: Lista os arquivos dentro do diretório;
+
+# comando - cd .. Sai do diretório e volta pro diretório anterior:
+
+# comando - cd ../diretório - Sai do diretório atual e acessa outro diretório.
+
+# comando - cd /diretório/diretório
 
