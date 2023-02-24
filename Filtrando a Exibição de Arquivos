@@ -1,0 +1,10 @@
+
+#Comando: ls | more - 
+
+#Comando: ls nome do arquivo -
+
+#Comando: ls g?o* - Exibe os arquivos que o nome começa com g, a segunda letra pode ser outra letra, e a terceira pode ser qualquer letra;
+
+#comando: touch + nome do arquivo + o tipo do arquivo -
+
+#Comando: cd ~ - Acessa o diretório do usuário;
