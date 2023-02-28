@@ -1,0 +1,10 @@
+
+	#LOCALIZANDO ARQUIVOS
+	
+Comando: ls /Documentos/Dev - Lista os arquivos presente no diretório sem precisar entrar no diretório em questão;
+
+Comando: ls /Dev/a* - Lista todos os arquivos iniciados com a letra "a" dentro do diiretório em questão;
+
+Comando: find -name arquivo* - Busca os arquivos iniciados com as letras em questão;
+
+Comando: ls pass* - Lista os arquivos iniciados pelas letras em questão;

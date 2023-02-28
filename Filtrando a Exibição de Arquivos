@@ -5,6 +5,20 @@
 
 #Comando: ls g?o* - Exibe os arquivos que o nome começa com g, a segunda letra pode ser outra letra, e a terceira pode ser qualquer letra;
 
-#comando: touch + nome do arquivo + o tipo do arquivo -
+#comando: touch + nome do arquivo + o tipo do arquivo - Cria um arquivo;
 
 #Comando: cd ~ - Acessa o diretório do usuário;
+
+#Comando: ls p* - Exibe os arquivos dentro do filtro Primeira letra selecionada + segunda letra sendo qualquer uma outra letra;
+
+#Comando: ls ss* - Busca todos os diretórios iniciados por ss.
+
+#Comando: ls ?rh* - Primeira letra pode ser qualquer uma, a segunda r, e a terceira h. A quarta pode ser qualquer coisa;
+
+#Comando: ls arquivo[1-3]* - Exibe os arquivos de 1 ao 3;
+
+#Comando: ls arquivo[1,4]* - Exibe os arquivos 1 e 4;
+
+#Comando: ls arquivo[^1,4]* - Exclui os arquivos 1 e 4;
+
+#Comando: ls arquivo[^1-4]* - Exclui os arquivos de 1 ao 4;
