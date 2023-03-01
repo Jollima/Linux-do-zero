@@ -14,3 +14,18 @@
 
 # comando - cd /diretório/diretório
 
+# comando - mkdir - Cria um novo diretório(Pasta).
+
+# comando: mkdir diretório1 Diretório2 - Cria dois diretórios ao mesmo tempo.
+
+# comando: rm - Deleta um arquivo.
+
+# comando: rm *txt - Apaga os arquivos utilizando um filtro. Apaga todos os arquivos do tipo txt.
+
+# comando: rmdir - Deleta um diretório.
+
+# comando: rm -rf diretório - Deleta um diretório mesmo ele não estando vazio.
+
+# comando: ls --help - Lista a lista de ajuda sobre os comandos.
+
+# comando: man ls - Ajuda apenas para como usar o comando 'ls'.
